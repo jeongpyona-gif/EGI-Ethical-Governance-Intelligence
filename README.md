@@ -2,10 +2,10 @@
 
 **Hardware-Enforced AI Physical Safety IP Portfolio**
 
-- Patents: 57
+- Patents: 77
 - Trademarks: 9
-- Copyrights: 6
-- Developer: Jeong-Pyo Na, Republic of Korea, April 2026
+- Copyrights: 7
+- Developer: Jeong-Pyo Na, Republic of Korea, May 2026
 
 ---
 
@@ -19,7 +19,7 @@
 
 ---
 
-## Patent Portfolio (57 Patents)
+## Patent Portfolio (77 Patents)
 
 ### Cluster A — Invariant Condition Core
 
@@ -107,6 +107,38 @@
 55. Swarm Size-Based Invariant Condition Automatic Adjustment System
 56. Inter-Swarm Boundary Violation Physical Blocking System
 57. Swarm Robot Power-Independent Fail-Safe Circuit System
+
+### Cluster K — Vulnerable Entity Protection
+
+58. Role-Play-Input-Based Drive Control Signal Blocking AI Robot Control System for Vulnerable Entity Protection
+59. AI Robot Control System for Vulnerable-Entity Drive Control Signal Blocking Based on Proximity or Signal Reliability Conditions
+60. Direction-Component-Constraint-Based AI Robot Control System for Drive Control Signals in Vulnerable-Entity Proximity
+61. State-Transition-Constraint-Based AI Robot Control System for Drive Control Signals in Vulnerable-Entity Proximity
+62. Signal-Reliability-Based AI Robot Control System for Contact Prevention in Vulnerable-Entity Proximity
+
+### Cluster L — Learner Protection
+
+63. Imitation-Induction-Based AI Robot Control System for Drive Control Signal Blocking in Educational Environments
+64. Group-Dynamics-Based AI Robot Control System for Drive Restriction in Multi-Learner Educational Environments
+65. Supervisor-Approval-Based AI Robot Control System for Educational Physical Interaction Blocking Prior to Authorization
+66. Hazardous-Implement-Mediated-Interaction-Based AI Robot Control System for Drive Control Signal Blocking in Educational Environments
+67. Conservative-Threshold-Based AI Robot Control System for Drive Control Signal Blocking in Special Education Environments
+
+### Cluster M — Medical AI Robot Safety
+
+68. Anatomical-Protection-Region-Gating-Based AI Robot Control System for Drive Control Signal Blocking in Medical Environments
+69. Physical-Overload-Gating-Based AI Robot Control System for Drive Control Signal Blocking in Medical Environments
+70. Vital-Sign-Sustenance-Condition-Gating-Based AI Robot Control System for Drive Control Signal Blocking in Medical Environments
+71. Multi-Sensor-Consistency-Gating-Based AI Robot Control System for Drive Control Signal Blocking in Medical Environments
+72. Surgeon-Authorization-Gating-Based AI Robot Control System for Drive Control Signal Blocking in Medical Environments
+
+### Cluster N — Care Robot Safety
+
+73. Long-Term Cumulative Interaction Pattern Deviation-Gating-Based AI Robot Control System for Drive Control Signal Blocking in Care Environments
+74. Pre-Registered Comprehensive Authorization Consistency-Gating-Based AI Robot Control System for Drive Control Signal Blocking in Care Environments
+75. Dual-Intent Consistency Classification-Gating-Based AI Robot Control System for Drive Control Signal Blocking in Care Environments
+76. Harm-Threshold-Exceedance-Recognition and Independent-Notification-Gating-Based AI Robot Control System for Drive Control Signal Blocking in Care Environments
+77. Autonomy-Domain Excessive-Intervention-Blocking-Gating-Based AI Robot Control System for Drive Control Signal Non-Intervention Enforcement in Care Environments
 
 ---
 
