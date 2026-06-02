@@ -3,12 +3,15 @@ hardware-enforced AI safety
 physical AI safety  
 humanoid robot safety
 humanoid robot safety standard  
+invariant-condition
 AI actuator safety    
 execution path blocking    
 sensor-integrity  
 hardware-enforced-ai-safety  
-robot-safety  
-fail-safe-ai  
+robot-safety   
+fail-safe-ai    
+human-approval-enforcement  
+Physical AI Intervention  
 
 **Hardware-Enforced AI Physical Safety IP Portfolio**
 
