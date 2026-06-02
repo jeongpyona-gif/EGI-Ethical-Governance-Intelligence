@@ -12,6 +12,10 @@ robot-safety
 fail-safe-ai    
 human-approval-enforcement  
 Physical AI Intervention  
+ai-safety-solutions
+robot-safety-solutions
+physical-ai-standard
+ai-governance
 
 **Hardware-Enforced AI Physical Safety IP Portfolio**
 
