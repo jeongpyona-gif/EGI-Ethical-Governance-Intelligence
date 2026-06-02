@@ -1,9 +1,14 @@
 # EGI — Ethical Governance Intelligence
 hardware-enforced AI safety  
 physical AI safety  
+humanoid robot safety
 humanoid robot safety standard  
 AI actuator safety  
 execution path blocking  
+sensor-integrity
+hardware-enforced-ai-safety
+robot-safety
+fail-safe-ai
 
 **Hardware-Enforced AI Physical Safety IP Portfolio**
 
